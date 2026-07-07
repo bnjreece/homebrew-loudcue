@@ -1,6 +1,6 @@
 cask "loudcue" do
-  version "0.1.7"
-  sha256 "cdfb0ccba8d1a8ef158c3dcfc7f71ef8fa818907fd382f02b3e9e6012436c7ed"
+  version "0.1.8"
+  sha256 "666818dbc5207e128fd7caf786ea3e1db1a5f84a7d36bb845197c95490699711"
 
   url "https://github.com/bnjreece/loudcue/releases/download/v#{version}/LoudCue-#{version}.dmg",
       verified: "github.com/bnjreece/loudcue/"
